@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 👌 🤙
 
-<!--
-**dBarmpxkos/dBarmpxkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 Firmware development
 
-Here are some ideas to get you started:
+💯 Embedded design - sensor design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💰 MATLAB / Python
+
+------------------------------
+
+<a href="Contribution Card">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dBarmpxkos&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true&custom_title=dB>>0xffff" />
+</a>
+<a href="Top Langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dBarmpxkos&layout=compact&count_private=true&langs_count=10&exclude_repo=VHDL_Examples&hide=tcl&theme=material-palenight" />
+</a>
